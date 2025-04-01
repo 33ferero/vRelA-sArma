@@ -1,0 +1,17 @@
+-R theories CS4560MappingProof
+
+theories/model/Event.v
+theories/model/Execution.v
+theories/model/RelAcq.v
+theories/model/SimplArm.v
+theories/proofs/util/SrcDst.v
+theories/proofs/util/Misc.v
+theories/proofs/WellFormed.v
+theories/proofs/util/Relations.v
+theories/proofs/Behavior.v
+theories/proofs/util/ObMap.v
+theories/proofs/Consistent.v
+theories/proofs/Mapping.v
+theories/Main.v
+
+# Put files in order of dependency
